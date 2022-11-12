@@ -121,7 +121,7 @@ void factCR(int n2, int r2)
     {
         respnum = respnum * x; // factorial del numerador
     }
-
+      //
     int respden =1;
     for (int x = 1; x < denom; x++)
     {
